@@ -9,8 +9,12 @@ html {
 body {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
-  font-size: 0.8rem;
+  font-size: .8rem;
   line-height: 1.5;
+}
+
+a {
+  font-weight: normal;
 }
 
 h1, h2 {
@@ -53,5 +57,9 @@ blockquote {
 
 ol {
   list-style-type: lower-greek;
-  font-size: 0.8rem
+  font-size: .8rem;
+}
+
+img {
+  width: 100%;
 }
