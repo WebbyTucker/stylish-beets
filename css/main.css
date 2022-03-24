@@ -10,11 +10,12 @@ body {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
   font-size: .8rem;
+  font-weight: normal;
   line-height: 1.5;
 }
 
 a {
-  font-weight: normal;
+  text-decoration: none;
 }
 
 h1, h2 {
@@ -62,4 +63,8 @@ ol {
 
 img {
   width: 100%;
+}
+
+cite {
+  font-size: .8rem
 }
